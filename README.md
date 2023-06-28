@@ -18,7 +18,7 @@ You run out of lives, and the game ends in defeat.
 
 ## Customizing Word Lists
 
-The game uses different word lists for each difficulty level (easy, medium, hard). 
+The game uses different word lists for each difficulty level (easy, medium, hard, and expert). 
 
 The words are stored in a separate module called word_list.py. To customize the word lists, modify the lists in that module.
 
